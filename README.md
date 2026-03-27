@@ -27,11 +27,12 @@ python main.py
 
 📂 Repo Name
 expense-tracker-python
+
 📌 Future Improvements
-Add delete/edit option
-Monthly report
-Graph visualization
-GUI version
+-Add delete/edit option
+-Monthly report
+-Graph visualization
+-GUI version
 
 🪪 License
 MIT License
