@@ -25,14 +25,14 @@ A simple command-line based expense tracker built using Python.
 `bash
 python main.py
 
-📂 Repo Name
-expense-tracker-python
+## 📂 Repo Name
+- expense-tracker-python
 
-📌 Future Improvements
--Add delete/edit option
--Monthly report
--Graph visualization
--GUI version
+## 📌 Future Improvements
+- Add delete/edit option
+- Monthly report
+- Graph visualization
+- GUI version
 
-🪪 License
-MIT License
+## 🪪 License
+- MIT License
